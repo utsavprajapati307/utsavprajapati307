@@ -12,7 +12,7 @@
 - 📫 How to reach me :
   Email : utsavprajapati307@gmail.com 
   LinkedIn : Utsav prajapati 
-  Instagram : utsav_prajapati307
+  Instagram : @utsav_prajapati307
 - 😄 Pronouns :
   He/Him
 - ⚡ Fun fact :
