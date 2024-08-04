@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @utsavprajapati307
-- 👀 I’m interested in : Arificial Intelligence, Data Analytics, Photography, Videography, Graphics Design, Singing.
+- 👀 I’m interested in : Arificial Intelligence, Data Analytics, Photography, Videography, Graphics Designing, Editing, Singing, Innovation.
 - 🌱 I’m currently learning :
   Python, 
   Advance AI Techniques, 
@@ -16,8 +16,8 @@
 - 😄 Pronouns :
   He/Him
 - ⚡ Fun fact :
-  I have a passion for Photography and Love to Travel.
-
+  I'm a Photographer as well as Traveller.
+  
 <!---
 utsavprajapati307/utsavprajapati307 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
