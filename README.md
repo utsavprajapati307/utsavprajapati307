@@ -1,11 +1,5 @@
 - 👋 Hi, I’m @utsavprajapati307
-- 👀 I’m interested in :
-  Arificial Intelligence, 
-  Data Analytics, 
-  Photography, 
-  Videography, 
-  Graphics Design, 
-  Singing.
+- 👀 I’m interested in : Arificial Intelligence, Data Analytics, Photography, Videography, Graphics Design, Singing.
 - 🌱 I’m currently learning :
   Python, 
   Advance AI Techniques, 
